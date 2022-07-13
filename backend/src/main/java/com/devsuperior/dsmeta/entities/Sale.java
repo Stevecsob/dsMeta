@@ -23,7 +23,6 @@ public class Sale {
 	private LocalDate date;
 	
 	public Sale() {
-		
 	}
 	
 
